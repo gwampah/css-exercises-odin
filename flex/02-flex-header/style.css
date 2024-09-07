@@ -5,7 +5,6 @@
   padding: 8px;
   align-items: center;
   justify-content: space-between;
-  outline: 2px solid red;
 }
 
 .logo {
@@ -23,7 +22,6 @@ ul {
   margin: 0;
   padding: 0;
   gap: 8px;
-  outline: 2px solid red;
 }
 
 
